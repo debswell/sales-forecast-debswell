@@ -1,2 +1,3 @@
-# skripsi
-This repository I use to build a projcet of my thesis
+# sales forecast
+
+this project I made for sales forecast in a store at e-commerce
